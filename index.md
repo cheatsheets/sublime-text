@@ -21,14 +21,11 @@ title: Sublime Text
 
 * **Multiple cursors:** Edit multiple lines of code simultaneously by holding down Cmd and then clicking different lines with your mouse.
 * **Reopening closed tabs:** Just as with Chrome, if you accidentally close a file that you&#8217;d like to reopen, just press Shift +Cmd + T. If you keep pressing that key combo, ST will continue opening tabs in the order that you closed them.
-* **Quick file opening:** This is perhaps my favorite ST feature. Hold down Cmd + T to open a textfield that lets you search for files within a project to open.
+* **Quick file opening:** Cmd + T
 * **Jumping to symbols:** To quickly jump to specific symbols, hold down Cmd + P to open up a search field. Type in your symbol and press enter.
-* **Search entire project files:** To search the contents of an entire ST project, hold down Shift + Cmd + F.
-* **Jumping between words/lines:** This is more of an operating system feature, but I discovered it while using ST. On Macs, if you hold down Alt while using the arrow keys, you jump between words rather than characters. Similarly, if you hold down Cmd while using arrow keys, you jump from the opposite end of a line. Very useful for quickly navigating code without your mouse.
+* **Search project:** Shift + Cmd + F
+* **Jumping between words/lines:** Cmd + arrow keys, you jump from the opposite end of a line.
 * **Quickly change settings:** Shift + Cmd + P (Shift + ctrl + P on Windows) opens a quick search to allow you to modify Sublime Text preferences.
-
-<p>The following have been additions I&#8217;ve seen in the <a href="http://news.ycombinator.com/item?id=4246781" target="_blank">Hacker News comments</a>:</p>
-
 * <span>**Jumping between word segments:** &#8221;If you hold down control, you move by word segment - this is camel-case (and underscore) aware. So, if I am at the front of the word &#8220;cakeParty&#8221;, I can move to between &#8216;e&#8217; and &#8216;P&#8217; by holding control and pressing the right arrow key.&#8221; (Thanks </span><span><span><a href="http://news.ycombinator.com/item?id=4246833" target="_blank">hebejebelus</a>)</span></span>
 * <span>**Move current line up/down:** &#8220;</span><span>You can also move the curent line up and down the page using Ctrl + Cmd + Up/Down&#8221; (Thanks <a href="http://news.ycombinator.com/item?id=4246846" target="_blank">draftable</a>)</span>
 * **<a href="http://wbond.net/sublime_packages/package_control" target="_blank">Sublime Package Control</a>**: &#8220;<span>Useful for installing things like themes, syntax awareness, code linters, etc&#8230;&#8221; (Thanks <a href="http://news.ycombinator.com/item?id=4246856" target="_blank">po</a>)</span>
