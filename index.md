@@ -10,7 +10,6 @@ title: Sublime Text
 * [beginners](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text)
 * [debugger](https://github.com/shuky19/sublime_debugger)
 * [setup](http://blog.alexmaccaw.com/sublime-text)
-* [for rails](http://www.icicletech.com/cheat-sheets/sublime-cheat-sheet-for-ruby-and-ruby-on-rails) [pdf](http://cdn2.icicletech.com/media/sublime-editor-cheatsheet-ruby-on-rails.pdf)
-
+* [for rails](http://www.icicletech.com/cheat-sheets/sublime-cheat-sheet-for-ruby-and-ruby-on-rails): [pdf](http://cdn2.icicletech.com/media/sublime-editor-cheatsheet-ruby-on-rails.pdf)
 * [quickguide](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/)
 * [docs](http://docs.sublimetext.info/en/sublime-text-3/file_management/file_management.html)
