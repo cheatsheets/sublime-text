@@ -3,8 +3,10 @@ layout: default
 title: Sublime Text
 ---
 
-console | ctrl-`
-toggle sidebar | cmd-kb
+| command | keystroke |
+| ------- | --------: |
+| console | ctrl-`    |
+| toggle sidebar | cmd-kb |
 
 * [shortcuts](https://pragmaticstudio.s3.amazonaws.com/media/SublimeShortcuts.pdf)
 * [learn shortcuts](https://www.shortcutfoo.com/app/tutorial/sublimetext)
