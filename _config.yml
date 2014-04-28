@@ -1,3 +1,5 @@
 name: Sublime Text 
-markdown: redcarpet
+markdown: redcarpet2
 pygments: true
+redcarpet:
+  extensions: ["tables"]
