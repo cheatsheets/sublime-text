@@ -8,7 +8,8 @@ title: Sublime Text
 | console | ctrl-`    |
 | toggle sidebar | cmd-kb |
 
-* [shortcuts](https://pragmaticstudio.s3.amazonaws.com/media/SublimeShortcuts.pdf)
+* [shortcuts - unofficial docs] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
+* [shortcuts - prags](https://pragmaticstudio.s3.amazonaws.com/media/SublimeShortcuts.pdf)
 * [learn shortcuts](https://www.shortcutfoo.com/app/tutorial/sublimetext)
 * [chef configuration](https://github.com/kitchenplan/chef-applications/blob/master/attributes/sublime_text.rb)
 * [for ruby](http://blog.codeclimate.com/blog/2012/06/21/sublime-text-2-for-ruby/)
