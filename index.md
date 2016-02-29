@@ -19,6 +19,8 @@ title: Sublime Text
 * [quickguide](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/)
 * [docs](http://docs.sublimetext.info/en/sublime-text-3/file_management/file_management.html)
 
+* **Extract Partial:** Sh-Alt-P
+* **Select Block:** Select similarly indented text Sh + Cmd + J
 * **Multiple cursors:** Edit multiple lines of code simultaneously by holding down Cmd and then clicking different lines with your mouse.
 * **Reopening closed tabs:** Just as with Chrome, if you accidentally close a file that you&#8217;d like to reopen, just press Shift + Cmd + T. If you keep pressing that key combo, ST will continue opening tabs in the order that you closed them.
 * **Quick file opening:** Cmd + T
